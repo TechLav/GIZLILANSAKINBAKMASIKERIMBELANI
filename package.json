@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "*",
+    "memorystore": "*",
+    "helmet": "*",
+    "ddos": "*",
+    "moment": "*",
+    "quickmongo": "*",
+    "randomstring": "*"
+  }
+}
